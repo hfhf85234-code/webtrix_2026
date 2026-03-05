@@ -38,3 +38,4 @@ Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/bui
 # webtrix_2026
 # webtrix_2026
 Update project content
+Update project blok dark mode
